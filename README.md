@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Romano Victor Juma
 - 👀 I’m interested in new concepts
-- 🌱 I’m currently learning Information Technolody (KCA UUNIVERSITY) and Backend development (ALX AFRICA) 
+- 🌱 I’m currently learning Backend development
 - 💞️ I’m looking to collaborate on varius projects
 - 📫 How to reach me romanojuma15@gmail.com
 - 😄 Pronouns: ...
